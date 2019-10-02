@@ -1,0 +1,7 @@
+/.settings/
+/.classpath
+/.project
+/phoenix_interface.iml
+/target/
+/test-output/
+/.idea/

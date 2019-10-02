@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="注册">
+    <classes>
+      <class name="com.lemon.interf.RegisterCaseV4"/>
+    </classes>
+  </test> 
+  <test name="登录">
+    <classes>
+      <class name="com.lemon.interf.LoginCase"/>
+    </classes>
+  </test> 
+  <test name="充值">
+    <classes>
+      <class name="com.lemon.interf.RechargeCase"/>
+    </classes>
+  </test> 
+  <test name="取现">
+      <classes>
+          <class name="com.lemon.interf.Withdraw"></class>
+      </classes>
+  </test>
+
+</suite> 
